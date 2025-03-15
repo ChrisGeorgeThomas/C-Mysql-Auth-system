@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function () {
     const choices = document.querySelectorAll(".choice");
     const statusText = document.getElementById("status");
